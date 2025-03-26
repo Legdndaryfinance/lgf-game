@@ -1,2 +1,121 @@
-‰PNG
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LGF Token Project</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 1rem;
+        }
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        nav ul li {
+            display: inline;
+            margin-right: 20px;
+        }
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+        }
+        section {
+            padding: 20px;
+            background-color: white;
+            margin: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 1rem;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <h1>Welcome to the LGF Token Project</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#whitepaper">Whitepaper</a></li>
+                <li><a href="#roadmap">Roadmap</a></li>
+                <li><a href="#game">Game</a></li>
+                <li><a href="#airdrop">Airdrop</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Home Section -->
+    <section id="home">
+        <h2>About LGF Token</h2>
+        <p>LGF is a utility token designed for use in our gaming ecosystem and airdrop rewards.</p>
+        <a href="#airdrop">Join the Airdrop</a>
+    </section>
+
+    <!-- Whitepaper Section -->
+    <section id="whitepaper">
+        <h2>Whitepaper - LGF Token</h2>
+        <h3>Introduction</h3>
+        <p>The LGF token is a utility-based cryptocurrency created to be used in the LGF ecosystem, offering in-game rewards, exclusive access, and more. The primary goal of LGF is to build a community-driven platform that encourages organic growth, participation, and rewards.</p>
+        <h3>Token Overview</h3>
+        <p>The LGF token is an ERC20/TRC20 token with a total supply of 35,000 LGF tokens. It is designed to be the primary asset within our ecosystem, powering a variety of use cases, from in-game rewards to marketplace transactions.</p>
+        
+        <h3>Tokenomics</h3>
+        <ul>
+            <li><strong>Total Supply:</strong> 35,000 LGF</li>
+            <li><strong>Circulating Supply:</strong> 35,000 LGF</li>
+        </ul>
+        
+        <h3>Distribution</h3>
+        <ul>
+            <li><strong>Community:</strong> 30%</li>
+            <li><strong>Team & Development:</strong> 20%</li>
+            <li><strong>Liquidity Pool:</strong> 25%</li>
+            <li><strong>Marketing:</strong> 10%</li>
+            <li><strong>Airdrop:</strong> 15%</li>
+        </ul>
+    </section>
+
+    <!-- Roadmap Section -->
+    <section id="roadmap">
+        <h2>Project Milestones</h2>
+        <ul>
+            <li>Q3 2025 - Airdrop</li>
+            <li>Q4 2025 - Marketplace Launch</li>
+            <li>Q4 2025 - Gaming Beta Launch</li>
+            <li>Q1 2026 - Full Game Release</li>
+        </ul>
+    </section>
+
+    <!-- Game Section -->
+    <section id="game">
+        <h2>Game</h2>
+        <p>This section will introduce our upcoming fishing game where LGF tokens can be earned as rewards and used to purchase in-game items like skins and gems.</p>
+    </section>
+
+    <!-- Airdrop Section -->
+    <section id="airdrop">
+        <h2>Join the LGF Airdrop</h2>
+        <p>Participate in the LGF airdrop by completing the tasks below.</p>
+        <a href="https://t.me/lgfairdropbot">Join Airdrop Bot</a>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2025 LGF Token Project</p>
+    </footer>
+
+</body>
+</html>
